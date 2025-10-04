@@ -1,0 +1,135 @@
+[2025-01-11T12:36:14.419+0000] {processor.py:186} INFO - Started process (PID=16463) to work on /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:36:14.420+0000] {processor.py:914} INFO - Processing file /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:36:14.424+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:14.423+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:36:14.448+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:36:14.696+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:14.695+0000] {override.py:1911} INFO - Created Permission View: can edit on DAG:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:36:14.709+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:14.709+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:36:14.720+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:14.719+0000] {override.py:1911} INFO - Created Permission View: can read on DAG:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:36:14.736+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:14.735+0000] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:36:14.746+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:14.745+0000] {override.py:1911} INFO - Created Permission View: can create on DAG Run:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:36:14.757+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:14.756+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:36:14.767+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:14.766+0000] {override.py:1911} INFO - Created Permission View: can read on DAG Run:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:36:14.767+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:14.767+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:36:14.779+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:14.779+0000] {dag.py:3262} INFO - Creating ORM DAG for agile_data_science_batch_prediction_model_training
+[2025-01-11T12:36:14.780+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:14.780+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:36:14.800+0000] {processor.py:208} INFO - Processing /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py took 0.391 seconds
+[2025-01-11T12:36:45.702+0000] {processor.py:186} INFO - Started process (PID=16539) to work on /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:36:45.703+0000] {processor.py:914} INFO - Processing file /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:36:45.706+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:45.706+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:36:45.723+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:36:45.753+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:45.753+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:36:45.768+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:36:45.768+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:36:45.793+0000] {processor.py:208} INFO - Processing /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py took 0.100 seconds
+[2025-01-11T12:41:13.816+0000] {processor.py:186} INFO - Started process (PID=17554) to work on /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:41:13.818+0000] {processor.py:914} INFO - Processing file /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:41:13.820+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:41:13.819+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:41:13.837+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:41:13.892+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:41:13.892+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:41:13.912+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:41:13.911+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:41:13.942+0000] {processor.py:208} INFO - Processing /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py took 0.141 seconds
+[2025-01-11T12:41:45.047+0000] {processor.py:186} INFO - Started process (PID=17560) to work on /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:41:45.049+0000] {processor.py:914} INFO - Processing file /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:41:45.051+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:41:45.051+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:41:45.063+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:41:45.098+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:41:45.098+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:41:45.113+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:41:45.112+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:41:45.136+0000] {processor.py:208} INFO - Processing /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py took 0.101 seconds
+[2025-01-11T12:42:15.346+0000] {processor.py:186} INFO - Started process (PID=17566) to work on /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:42:15.348+0000] {processor.py:914} INFO - Processing file /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:42:15.350+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:42:15.349+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:42:15.362+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py
+[2025-01-11T12:42:15.396+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:42:15.395+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:42:15.410+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:42:15.410+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:42:15.435+0000] {processor.py:208} INFO - Processing /home/alexfg2105/practica_creativa/resources/airflow/dags/train.py took 0.098 seconds
+[2025-01-11T12:45:21.420+0000] {processor.py:186} INFO - Started process (PID=37) to work on /opt/airflow/dags/train.py
+[2025-01-11T12:45:21.426+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:45:21.439+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:21.438+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/train.py
+[2025-01-11T12:45:21.500+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /opt/airflow/dags/train.py
+[2025-01-11T12:45:22.018+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:22.016+0000] {override.py:1911} INFO - Created Permission View: can edit on DAG:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:45:22.040+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:22.040+0000] {override.py:1911} INFO - Created Permission View: can read on DAG:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:45:22.052+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:22.051+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:45:22.063+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:22.063+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:45:22.074+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:22.073+0000] {override.py:1911} INFO - Created Permission View: can read on DAG Run:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:45:22.084+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:22.083+0000] {override.py:1911} INFO - Created Permission View: can create on DAG Run:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:45:22.094+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:22.093+0000] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:agile_data_science_batch_prediction_model_training
+[2025-01-11T12:45:22.095+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:22.094+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:45:22.123+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:22.122+0000] {dag.py:3262} INFO - Creating ORM DAG for agile_data_science_batch_prediction_model_training
+[2025-01-11T12:45:22.124+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:22.124+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:45:22.151+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/train.py took 0.760 seconds
+[2025-01-11T12:45:52.388+0000] {processor.py:186} INFO - Started process (PID=44) to work on /opt/airflow/dags/train.py
+[2025-01-11T12:45:52.394+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:45:52.399+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:52.398+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/train.py
+[2025-01-11T12:45:52.432+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /opt/airflow/dags/train.py
+[2025-01-11T12:45:52.484+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:52.483+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:45:52.507+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:45:52.506+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:45:52.534+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/train.py took 0.160 seconds
+[2025-01-11T12:46:22.585+0000] {processor.py:186} INFO - Started process (PID=51) to work on /opt/airflow/dags/train.py
+[2025-01-11T12:46:22.588+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:46:22.593+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:46:22.592+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/train.py
+[2025-01-11T12:46:22.617+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /opt/airflow/dags/train.py
+[2025-01-11T12:46:22.663+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:46:22.662+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:46:22.687+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:46:22.687+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:46:22.715+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/train.py took 0.144 seconds
+[2025-01-11T12:46:52.994+0000] {processor.py:186} INFO - Started process (PID=58) to work on /opt/airflow/dags/train.py
+[2025-01-11T12:46:52.999+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:46:53.005+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:46:53.004+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/train.py
+[2025-01-11T12:46:53.029+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /opt/airflow/dags/train.py
+[2025-01-11T12:46:53.076+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:46:53.076+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:46:53.101+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:46:53.101+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:46:53.129+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/train.py took 0.151 seconds
+[2025-01-11T12:47:23.212+0000] {processor.py:186} INFO - Started process (PID=65) to work on /opt/airflow/dags/train.py
+[2025-01-11T12:47:23.217+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:47:23.221+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:47:23.220+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/train.py
+[2025-01-11T12:47:23.238+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /opt/airflow/dags/train.py
+[2025-01-11T12:47:23.281+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:47:23.281+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:47:23.301+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:47:23.301+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:47:23.328+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/train.py took 0.125 seconds
+[2025-01-11T12:47:53.561+0000] {processor.py:186} INFO - Started process (PID=72) to work on /opt/airflow/dags/train.py
+[2025-01-11T12:47:53.563+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:47:53.569+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:47:53.569+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/train.py
+[2025-01-11T12:47:53.602+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /opt/airflow/dags/train.py
+[2025-01-11T12:47:53.663+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:47:53.662+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:47:53.698+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:47:53.698+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:47:53.735+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/train.py took 0.193 seconds
+[2025-01-11T12:48:23.782+0000] {processor.py:186} INFO - Started process (PID=78) to work on /opt/airflow/dags/train.py
+[2025-01-11T12:48:23.787+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:48:23.791+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:48:23.791+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/train.py
+[2025-01-11T12:48:23.809+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /opt/airflow/dags/train.py
+[2025-01-11T12:48:23.851+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:48:23.851+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:48:23.871+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:48:23.871+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:48:23.897+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/train.py took 0.126 seconds
+[2025-01-11T12:48:54.005+0000] {processor.py:186} INFO - Started process (PID=85) to work on /opt/airflow/dags/train.py
+[2025-01-11T12:48:54.011+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:48:54.020+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:48:54.019+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/train.py
+[2025-01-11T12:48:54.044+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /opt/airflow/dags/train.py
+[2025-01-11T12:48:54.123+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:48:54.122+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:48:54.165+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:48:54.164+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:48:54.205+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/train.py took 0.214 seconds
+[2025-01-11T12:49:24.342+0000] {processor.py:186} INFO - Started process (PID=92) to work on /opt/airflow/dags/train.py
+[2025-01-11T12:49:24.344+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:49:24.349+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:49:24.349+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/train.py
+[2025-01-11T12:49:24.372+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /opt/airflow/dags/train.py
+[2025-01-11T12:49:24.427+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:49:24.427+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:49:24.455+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:49:24.454+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:49:24.487+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/train.py took 0.160 seconds
+[2025-01-11T12:49:54.655+0000] {processor.py:186} INFO - Started process (PID=99) to work on /opt/airflow/dags/train.py
+[2025-01-11T12:49:54.658+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:49:54.667+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:49:54.666+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/train.py
+[2025-01-11T12:49:54.713+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /opt/airflow/dags/train.py
+[2025-01-11T12:49:54.776+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:49:54.775+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:49:54.809+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:49:54.809+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:49:54.843+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/train.py took 0.207 seconds
+[2025-01-11T12:50:24.941+0000] {processor.py:186} INFO - Started process (PID=105) to work on /opt/airflow/dags/train.py
+[2025-01-11T12:50:24.943+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:50:24.947+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:50:24.946+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/train.py
+[2025-01-11T12:50:24.964+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /opt/airflow/dags/train.py
+[2025-01-11T12:50:25.007+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:50:25.006+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:50:25.028+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:50:25.027+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:50:25.352+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/train.py took 0.419 seconds
+[2025-01-11T12:50:55.631+0000] {processor.py:186} INFO - Started process (PID=111) to work on /opt/airflow/dags/train.py
+[2025-01-11T12:50:55.635+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/train.py for tasks to queue
+[2025-01-11T12:50:55.644+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:50:55.644+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/train.py
+[2025-01-11T12:50:55.695+0000] {processor.py:925} INFO - DAG(s) 'agile_data_science_batch_prediction_model_training' retrieved from /opt/airflow/dags/train.py
+[2025-01-11T12:50:55.797+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:50:55.796+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-11T12:50:56.510+0000] {logging_mixin.py:190} INFO - [2025-01-11T12:50:56.509+0000] {dag.py:4180} INFO - Setting next_dagrun for agile_data_science_batch_prediction_model_training to None, run_after=None
+[2025-01-11T12:50:56.554+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/train.py took 0.949 seconds
